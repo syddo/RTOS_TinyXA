@@ -1,0 +1,3 @@
+[submodule "SUB_FREE_RTOS"]
+	path = SUB_FREE_RTOS
+	url = https://github.com/syddo/SUB_FREE_RTOS.git
